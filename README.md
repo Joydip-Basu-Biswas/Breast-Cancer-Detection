@@ -1,4 +1,4 @@
-# Breast-Cancer-Detecton
+# Breast-Cancer-Detection
 Predicting the breast cancer using Machine learning 
 
 Breast Cancer predicting with Logistic Regression model, Decision Tree Classifier model, Random Forest Classifier model, Naive Bayas classifier model, SVM model
